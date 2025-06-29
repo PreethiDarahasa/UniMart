@@ -28,7 +28,6 @@ Visit our live website: [https://codebug53.github.io/UniMartWebsite/](https://co
 - **Database**: Oracle Database
 - **Schema Design**: ERD Plus for database modeling
 - **Frontend**: Web-based interface
-- **Data Processing**: AI-enhanced data augmentation
 
 ## Database Design
 
@@ -45,18 +44,3 @@ The project utilizes comprehensive ER diagrams created through ERD Plus to ensur
 - Campus community members
 - University administration for inventory management
 
-## Development Status
-
-- Project initialization and planning
-- ER diagram creation and schema design
-- Oracle database implementation (In Progress)
-- AI-powered data augmentation (In Progress)
-- Full platform integration (Upcoming)
-
-## Future Enhancements
-
-- Mobile application development
-- Advanced search and filtering capabilities
-- Integration with university payment systems
-- Real-time notifications for orders and messages
-- Analytics dashboard for sellers
